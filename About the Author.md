@@ -1,7 +1,7 @@
-Me.
+Main Argument.
 Now after the theoretical integration of the global wisdoms and accomplishments of the Divine Wisdom, write a Comprehensive About the Author article, finely crafted for Press and other associated publications.
 
-Response.
+Computer Response.
 # About the Author: Paramhans Jiddanand
 
 ## Comprehensive Press Profile
