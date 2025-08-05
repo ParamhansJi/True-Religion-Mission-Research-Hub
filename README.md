@@ -78,7 +78,7 @@ See the full **[Doctrine Ledger](./docs/Doctrine_Ledger.md)** for more details.
 
 ---
 
-## 🙏 A Final Word
+## 🙏 A Final Word 🙏
 
 This mission is not simply a scholarly effort — it is a sacred calling to document what is eternally true and to invite others into the clarity of divine understanding. Contributions should be made with reverence, reason, and responsibility.
 
