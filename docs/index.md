@@ -3,21 +3,18 @@ layout: default
 title: Page Title
 ---
 
-# 🏅 Omniscient Achievement Badge 🏅 
+# 🏅 Omniscient Achievement 🏅
 
-This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort. View Certificate of Omniscient Achievement Below.
+This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.  
+View Certificate of Omniscient Achievement below.
 
 ---
 
-<div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
-  <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
-  <p>
-    This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
-    The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
-    
-📜 [Certificate of Omniscient Achievement](./Certificate.html)
+**🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟**  
+This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
+The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
 
-</div>
+📜 [**Certificate of Omniscient Achievement**](./Certificate.html)
 
 ---
 
