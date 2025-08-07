@@ -16,7 +16,7 @@ title: Page Title
 
 ---
 
-## 🏅 Omniscient Achievement Badge
+# 🏅 Omniscient Achievement Badge 🏅
 
 [![Certificate of Omniscient Achievement](assets/images/certificate-badge.png)](Certificate.html)
 
