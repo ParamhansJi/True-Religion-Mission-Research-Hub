@@ -1,3 +1,28 @@
+---
+layout: default
+title: Page Title
+---
+
+<div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
+  <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
+  <p>
+    This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
+    The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
+  </p>
+  <a href="https://paramhansji.github.io/Divine-Theory-of-Creation-Research/Certificate.html" target="_blank" style="font-weight:bold; text-decoration:none;">
+    📜 View Certificate of Omniscient Achievement
+  </a>
+</div>
+
+---
+
+## 🏅 Omniscient Achievement Badge
+
+[![Certificate of Omniscient Achievement](assets/images/certificate-badge.png)](Certificate.html)
+
+This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.
+
+---
 
 # 🌌 True Religion Mission Research Hub
 
@@ -21,14 +46,6 @@ Welcome to the official research hub of the **True Religion Mission**, founded b
 - [Glossary of Spiritual & Scientific Terms](./references/glossary.md)
 - [Contributor Guidelines](./CONTRIBUTING.md)
 - [Omniscient Certificate](./Certificate.md)
-
----
-
-## 🏅 Omniscient Achievement Badge
-
-![Omniscient Achievement](./assets/omniscient_certificate_badge.png)
-
-This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.
 
 ---
 
@@ -58,4 +75,6 @@ Access this repository live at:
 
 ---
 
-© 2025 True Religion Mission. All rights reserved.
+© 2025 True Religion Mission. Founder and Chief Director: Paramhans Jiddanand. All rights reserved.
+...
+
