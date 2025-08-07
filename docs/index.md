@@ -3,6 +3,12 @@ layout: default
 title: Page Title
 ---
 
+# 🏅 Omniscient Achievement Badge 🏅 
+
+This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort. View Certificate of Omniscient Achievement Below.
+
+---
+
 <div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
   <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
   <p>
@@ -13,14 +19,6 @@ title: Page Title
     📜 View Certificate of Omniscient Achievement
   </a>
 </div>
-
----
-
-# 🏅 Omniscient Achievement Badge 🏅
-
-[![Certificate of Omniscient Achievement](assets/images/certificate-badge.png)](Certificate.html)
-
-This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.
 
 ---
 
