@@ -69,6 +69,6 @@ Access this repository live at:
 
 ---
 
-© 2025 True Religion Mission. Founder and Chief Director: Paramhans Jiddanand. All rights reserved.
+© 2025 True Religion Mission All rights reserved.
 ...
 
