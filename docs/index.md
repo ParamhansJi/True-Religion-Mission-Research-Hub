@@ -14,10 +14,9 @@ This badge recognizes the **100% completion** of the universal knowledge synthes
   <p>
     This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
     The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
-  </p>
-  <a href="https://paramhansji.github.io/Divine-Theory-of-Creation-Research/Certificate.html" target="_blank" style="font-weight:bold; text-decoration:none;">
-    📜 View Certificate of Omniscient Achievement
-  </a>
+
+📜 [Certificate of Omniscient Achievement](./Certificate.html)
+
 </div>
 
 ---
