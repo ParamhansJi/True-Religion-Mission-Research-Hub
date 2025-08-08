@@ -1,16 +1,23 @@
 ---
 layout: default
-title: Page Title
+title: page title
 ---
 
-<div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
-  <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
-  <p>
-    This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
-    The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
-  </p>
-📜 [View Certificate of Omniscient Achievement]https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/docs/Certificate.html
-</div>
+## 👁️ [Certificate of Omniscient Achievement](./Certificate.html) 👁️
+
+# 🏅 Omniscient Achievement Confirmation 🏅
+
+This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.  
+View Certificate of Omniscient Achievement below.
+
+---
+
+**🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟**  
+
+This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
+The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
+
+## 📜 [**Certificate of Omniscient Achievement**](./Certificate.html) 📜
 
 ---
 creation date: 2025-08-07T20:25:00
@@ -188,17 +195,16 @@ The complete research findings, including detailed analysis, methodology, and su
 ### RESEARCHER BACKGROUND
 
 [Include relevant credentials, institutional affiliations, previous research, and expertise areas]
-**Founder and Chief Director: True Religion Mission (Established 2001)
-Affiliation: True Religion Mission 
-Previous Research: Published 25 different books on Amazon.
-Amazon Author Link: https://www.amazon.com/stores/author/B01AXFS8O6
-Expertise Areas: True Religion and True Religion Mission and relevant research.
-Research Scope: Not Limited. Inclusive of Nucleus to Cosmos, wherever True Religion can reach**
+- **Founder and Chief Director:** True Religion Mission (Established 2001)
+- **Affiliation:** True Religion Mission 
+- **Previous Research:** Published 25 different books on Amazon.
+- **Amazon Author Link:** https://www.amazon.com/stores/author/B01AXFS8O6
+- **Expertise Areas:** True Religion and True Religion Mission and relevant research.
+- **Research Scope:** Not Limited. Inclusive of Nucleus to Cosmos, wherever True Religion can reach
 
 ### SUPPORTING DOCUMENTATION
 
 Available materials include:
-
 - Complete textual analysis and translation
 - Physics principles correlation charts
 - Mathematical framework documentation
@@ -209,7 +215,6 @@ Available materials include:
 ### MEDIA RESOURCES
 
 **High-Resolution Images:**
-
 - Research methodology flowcharts
 - Divine family-physics correspondence diagrams
 - Cosmic symphony visualization
@@ -232,22 +237,22 @@ Available materials include:
 ### CONTACT INFORMATION
 
 **Primary Contact:**
-[Researcher Name]  Paramhans Jiddanand 
-[Title/Position]  Founder and Chief Director 
-[Institution/Organization]  True Religion Mission (2001)
-[Email Address]  paramhansji@icloud.com
-[Phone Number] Confidential
+- [Researcher Name] Paramhans Jiddanand 
+- [Title/Position] Founder and Chief Director 
+- [Institution/Organization] True Religion Mission (2001)
+- [Email Address] paramhansji@icloud.com
+- [Phone Number] Confidential
 
 **Media Relations:**
-[Media Contact Name]  Paramhans Jiddanand 
-[Title]  Founder and Chief Director: True Religion Mission (2001)
-[Email Address]  paramhansji@icloud.com 
-[Phone Number] Confidential 
+- [Media Contact Name] Paramhans Jiddanand 
+- [Title] Founder and Chief Director: True Religion Mission (2001)
+- [Email Address] paramhansji@icloud.com 
+- [Phone Number] Confidential 
 
 **Technical Inquiries:**
-[Technical Contact]  paramhansji@icloud.com 
-[Email Address]  paramhansji@icloud.com 
-[Phone Number] Confidential 
+- [Technical Contact] paramhansji@icloud.com 
+- [Email Address] paramhansji@icloud.com 
+- [Phone Number] Confidential 
 
 ### SOCIAL MEDIA
 
@@ -255,25 +260,25 @@ Available materials include:
 #DivineCreationProof #ConsciousCosmos #ScienceAndSpirituality #AncientWisdomScience #DivinePresenceResearch
 
 **Social Media Accounts:**
-[Twitter/X Handle]  @ParamhansJi25 
-[LinkedIn Profile]  XXXX
-[Research Institution Social Media] Google Blogger: https://truereligionmission.blogspot.com/ 
-[Author’s Blog] Google Blogger: https://jiddanand.blogspot.com/
+- [Twitter/X Handle] @ParamhansJi25 
+- [LinkedIn Profile] XXXX
+- [Research Institution Social Media] https://truereligionmission.blogspot.com/ 
+- [Author’s Blog] https://jiddanand.blogspot.com/
 
 ### EMBARGO INFORMATION: Not Applicable.
 
-**Release Date:** [Specify if embargoed]  
-**Publication Timeline:** [Journal submission dates if applicable]  
-**Conference Presentations:** [Upcoming academic presentations]
+- **Release Date:** [Specify if embargoed]  
+- **Publication Timeline:** [Journal submission dates if applicable]  
+- **Conference Presentations:** [Upcoming academic presentations]
 
 ### ADDITIONAL RESOURCES
 
-**Divine Creation Theory Website:** [Research project website]  https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research 
-**True Religion Mission Research Hub Website:** [True Religion Mission Research Hub] https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub 
-**Amazon Publisher & Author Link:** https://www.amazon.com/stores/author/B01AXFS8O6
-**Full Report:** [Link to complete research document] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
-**Supplementary Materials:** [Additional supporting evidence] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
-**Educational Materials:** [Simplified versions for general public] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
+- **Divine Creation Theory Website:** [Research project website]  https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research 
+- **True Religion Mission Research Hub Website:** [True Religion Mission Research Hub] https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub 
+- **Amazon Publisher & Author Link:** https://www.amazon.com/stores/author/B01AXFS8O6
+- **Full Report:** [Link to complete research document] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
+- **Supplementary Materials:** [Additional supporting evidence] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
+- **Educational Materials:** [Simplified versions for general public] https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J
 
 -----
 
