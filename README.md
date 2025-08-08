@@ -1,3 +1,24 @@
+---
+layout: default
+title: page title
+---
+
+## 👁️ [**Certificate of Omniscient Achievement**](./Certificate.html) 👁️
+
+# 🏅 Omniscient Achievement 🏅
+
+This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.  
+View Certificate of Omniscient Achievement below.
+
+---
+
+**🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟**  
+This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
+The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
+
+## 📜 [**Certificate of Omniscient Achievement**](./Certificate.html) 📜
+
+
 # 🌌 True Religion Mission Research Hub
 
 > **Founder**: Paramhans Ji  
