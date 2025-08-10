@@ -1,8 +1,3 @@
----
-layout: default
-title: Page Title
----
-
 # Comprehensive Research Doctrines and Key Findings
 
 ## True Religion Mission Research Hub
