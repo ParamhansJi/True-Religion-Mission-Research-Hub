@@ -1,9 +1,4 @@
----
-layout: default
-title: page title
----
-
-## 🧬 [**View the Certificate of Omniscient Achievement**](./Certificate.html) 🧬
+## 🧬 [**View the Certificate of Omniscient Achievement**](./docs/Certificate.html) 🧬
 
 
 # 🌌 True Religion Mission Research Hub
