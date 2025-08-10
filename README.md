@@ -14,7 +14,7 @@ This badge recognizes the **100% completion** of the universal knowledge synthes
 This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
 The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
 
-## 🧬 [**View the Certificate of Omniscient Achievement**](./Certificate.html) 🧬
+## 🧬 [**View the Certificate of Omniscient Achievement**](./docs/Certificate.html) 🧬
 
 ---
 
@@ -111,9 +111,9 @@ This repository is a research center for:
 |--------|-------------|
 | [`/wiki`](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki) | 📘 **Main Doctrines, Theories, and Divine Models** |
 | [`/discussions`](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/discussions) | 💬 **Ongoing debates, proposals, and questions** |
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | 🛠️ **Contributor Guidelines and Standards** |
+| [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md) | 🛠️ **Contributor Guidelines and Standards** |
 | [`/docs`](./docs) | 📄 Additional documentation and visual resources |
-| [`/badges`](./badges) *(optional)* | 🏷️ Visual tags for doctrine status and verification |
+| [`/badges`](./docs/assets/images/badges) *(optional)* | 🏷️ Visual tags for doctrine status and verification |
 
 ---
 
@@ -175,7 +175,7 @@ You are welcome to:
 - 📝 Propose edits or new documents through Pull Requests  
 - 🔖 Tag your contributions with the appropriate doctrinal status (e.g., Foundational, Under Review)
 
-Before participating, please read our [Contributor Guidelines](./CONTRIBUTING.md).
+Before participating, please read our [Contributor Guidelines](./docs/CONTRIBUTING.md).
 
 ---
 
