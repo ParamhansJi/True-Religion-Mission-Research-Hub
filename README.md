@@ -131,8 +131,8 @@ This repository is a research center for:
 
 The repository documents significant research achievements including verified doctrines that have undergone systematic investigation and empirical validation through established research protocols and peer review procedures. These doctrines represent substantial contributions to understanding of fundamental spiritual reality and practical application development.
 
-[Research Doctrines and Key Findings](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/docs/Doctrines-and-Key-Findings)
-[Groundbreaking Discoveries and Scientific Breakthroughs](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/Documents/Groundbreaking-Discoveries-and-Scientific-Breakthroughs)
+[Research Doctrines and Key Findings](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/docs/Doctrines-and-Key-Findings.md)
+[Groundbreaking Discoveries and Scientific Breakthroughs](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/Documents/Groundbreaking-Discoveries-and-Scientific-Breakthroughs.md)
 
 ## 🛠️ Contribution Guidelines and Standards
 
