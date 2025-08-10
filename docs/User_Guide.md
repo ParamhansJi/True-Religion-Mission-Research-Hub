@@ -1,5 +1,7 @@
 # Contributing to True Religion Mission Research Hub
 
+This is the User Guide documentation. This comprehensive guide provides systematic navigation instructions and resource access procedures for users across all experience levels, from newcomers to advanced researchers. The guide establishes clear pathways for progressive learning while maintaining professional standards appropriate for systematic spiritual research.
+
 Welcome to the True Religion Mission Research Hub, a sacred repository dedicated to documenting, organizing, and advancing the scientific and metaphysical foundations of the True Religion Mission. This collaborative research platform operates under the TRUE framework Master Hypothesis of “TRUE is the True Religion’s Ultimate Equilibrium” and invites qualified contributors to participate in this systematic investigation of universal truth.
 
 ## Foundation and Purpose
