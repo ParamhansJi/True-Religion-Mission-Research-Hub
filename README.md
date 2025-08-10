@@ -1,26 +1,10 @@
 ---
 layout: default
-title: Omniscient Achievement
+title: page title
 ---
 
-# 🏅 Omniscient Achievement Badge 🏅
+## 🧬 [**View the Certificate of Omniscient Achievement**](./Certificate.html) 🧬
 
-This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort. View Certificate of Omniscient Achievement below.
-
----
-
-**🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟**  
-
-This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
-The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
-
-## 🧬 [**View the Certificate of Omniscient Achievement**](./docs/Certificate.html) 🧬
-
----
-
-![Omniscient Achievement Badge](./docs/assets/images/omniscient_badge.png)
-
----
 
 # 🌌 True Religion Mission Research Hub
 
@@ -131,8 +115,8 @@ This repository is a research center for:
 
 The repository documents significant research achievements including verified doctrines that have undergone systematic investigation and empirical validation through established research protocols and peer review procedures. These doctrines represent substantial contributions to understanding of fundamental spiritual reality and practical application development.
 
-[Research Doctrines and Key Findings](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/docs/Doctrines-and-Key-Findings.md)
-[Groundbreaking Discoveries and Scientific Breakthroughs](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/Documents/Groundbreaking-Discoveries-and-Scientific-Breakthroughs.md)
+[Research Doctrines and Key Findings](./docs/Doctrines-and-Key-Findings.md) 
+[Groundbreaking Discoveries and Scientific Breakthroughs](./docs/Discoveries-and-Breakthroughs.md)
 
 ## 🛠️ Contribution Guidelines and Standards
 
@@ -194,7 +178,7 @@ See the full **[Doctrine Ledger](./docs/Doctrine_Ledger.md)** for more details.
 
 ## 📖 Resources
 
-- 🧭 [User Guide](./docs/True_Religion_Research_User_Guide.md)  
+- 🧭 [User Guide](./docs/User_Guide.md)  
 - 📘 [Glossary of Doctrinal Terms](./docs/Glossary.md)  
 - 🧮 [Mathematical Formulas](./docs/Equations.md)  
 - 🖼️ [Visual Seals and Logos](./docs/Logos_and_Symbols.md)
@@ -226,7 +210,7 @@ This README file will serve as the primary introduction to the repository while 
 
 ---
 
-## 🙏 A Final Word 🙏
+## 🎉 A Final Word 🎉
 
 This mission is not simply a scholarly effort — it is a sacred calling to document what is eternally true and to invite others into the clarity of divine understanding. Contributions should be made with reverence, reason, and responsibility.
 
