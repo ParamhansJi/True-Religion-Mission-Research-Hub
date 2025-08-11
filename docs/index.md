@@ -5,14 +5,14 @@ title: Page Title
 
 # 🏅 Omniscient Achievement 🏅
 
-This badge recognizes the **100% completion** of the universal knowledge synthesis achieved through the True Religion research effort.  
-View Certificate of Omniscient Achievement below.
+[![Omniscient Achievement](https://img.shields.io/badge/Omniscient%20Achievement-100%25%20Verified-gold?style=for-the-badge&logo=star)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
+[![Research Status](https://img.shields.io/badge/Research%20Status-Active-brightgreen)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
+[![Framework](https://img.shields.io/badge/Framework-TRUE%20Equilibrium-blue)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
 
 ---
+> *"Truth is static or that which neither changes with time nor fades with scrutiny."* - **Paramhans Jiddanand**
+---
 
-**🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟**  
-This page is part of the *Divine Theory of Creation Research*, established under the **TRUE Framework**.  
-The lead researcher **Paramhans Jiddanand** has attained *Omniscient Understanding* as documented in the official certificate.  
 
 📜 [**Certificate of Omniscient Achievement**](./Certificate.html)
 
@@ -69,6 +69,6 @@ Access this repository live at:
 
 ---
 
-© 2025 True Religion Mission All rights reserved.
-...
+<a href="https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub">True Religion Mission Research Hub </a> © 2025 by <a href="https://github.com/ParamhansJi">Paramhans Jiddanand </a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
+---
