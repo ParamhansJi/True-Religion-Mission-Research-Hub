@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page Title
+title: page title
 ---
 
 # 🏅 Omniscient Achievement 🏅
@@ -14,11 +14,11 @@ title: Page Title
 ---
 
 
-📜 [**Certificate of Omniscient Achievement**](./Certificate.html)
+🌌 [**Certificate of Omniscient Achievement**](./Certificate.html)
 
 ---
 
-# 🌌 True Religion Mission Research Hub
+# 👑 True Religion Mission Research Hub 👑
 
 Welcome to the official research hub of the **True Religion Mission**, founded by **Paramhans Jiddanand**. This platform documents and disseminates universal discoveries, doctrinal foundations, and empirical breakthroughs that form the basis of the **True Religion Movement**.
 
