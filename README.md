@@ -11,22 +11,23 @@
 > *"Truth is static or that which neither changes with time nor fades with scrutiny."* - **Paramhans Jiddanand**
 ---
 
-## ✴️ Mission Statement
+## ✴️ [Mission Statement](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/True-Religion-Mission-Questionnaire)
 
 The **True Religion Mission Research Hub** serves as the central repository for documenting, organizing, and advancing the scientific and metaphysical foundations of the True Religion Mission. This research platform integrates divine knowledge with universal science through systematic investigation of the **“TRUE framework Master Hypothesis”**.
 
-**True Religion Mission** Established in 2001 by Paramhans Jiddanand in India. The mission represents over three decades of systematic spiritual investigation that combines rigorous scientific methodology with profound spiritual understanding. The research program addresses fundamental questions regarding consciousness capabilities, divine reality characteristics, and universal truths through validated experimental protocols and measurable outcomes.
+**[True Religion Mission](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/Introduction-to-the-True-Religion-Mission)** 
+Established in 2001 by Paramhans Jiddanand in India. The mission represents over three decades of systematic spiritual investigation that combines rigorous scientific methodology with profound spiritual understanding. The research program addresses fundamental questions regarding consciousness capabilities, divine reality characteristics, and universal truths through validated experimental protocols and measurable outcomes.
 
-## ☀️ [Principal Researcher](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/Author%E2%80%99s-Press-Profile)
+## ☀️ [Principal Researcher](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/About-the-Author)
 
-**Paramhans Jiddanand**  
+**[Paramhans Jiddanand](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/Latest-Author-Profile-Personal-and-Professional)**  
 *Founder & Chief Director, True Religion Mission*
 
 Paramhans Jiddanand brings exceptional qualifications to this research endeavor through his distinguished background combining military service in the Indian Army Corps of Signals with advanced academic credentials including electronics and communications engineering, Sanskrit scholarship, and English literature mastery. His 35 years of dedicated research experience provides unparalleled depth in spiritual investigation methodologies and empirical validation procedures.
 
 His systematic approach integrates technical precision with spiritual wisdom, enabling **breakthrough** research in consciousness studies and divine phenomena investigation that maintains scientific credibility while advancing understanding of fundamental spiritual reality through validated methodologies and measurable outcomes.
 
-## 🔬 Research Framework
+## 🔬 [Research Framework](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/Documentation-Development)
 
 The TRUE framework operates through six interconnected sub-hypotheses that address comprehensive investigation of universal truth and spiritual reality through systematic methodology and empirical validation. This integrated approach provides complete coverage of fundamental spiritual questions while maintaining scientific rigor and practical applicability across diverse professional and personal contexts.
 
@@ -45,13 +46,13 @@ This investigation addresses systematic exploration of divine reality through va
 🚀 **Sub-Hypothesis 3: “The True Religion is the Creator of the Cosmos”**  
 This research examines True Religion as active creative principle through documentation of measurable creative effects and systematic investigation of cosmic creation processes. Investigation includes environmental monitoring, agricultural enhancement studies, and community transformation documentation that demonstrates practical creation applications.
 
-🚀 **Sub-Hypothesis 4: “The Creator and the Divine Theory of Creation”**  
+🚀 **[Sub-Hypothesis 4](https://www.amazon.com/Creator-Divine-Theory-Creation-ebook/dp/B0D1C9XF6J): “The Creator and the Divine Theory of Creation”**  
 This investigation addresses systematic understanding of divine creation processes through theoretical analysis and empirical validation of intelligent design evidence. Research includes quantum mechanics investigation, cosmological analysis, and mathematical modeling that supports creator intelligence recognition through natural law mechanisms.
 
 🚀 **Sub-Hypothesis 5: “The Divine Presence and the Footprints of the God”**  
 This research area documents systematic identification and measurement of divine presence indicators through sophisticated detection equipment and standardized observation protocols. Investigation includes environmental monitoring, behavioral pattern analysis, and recognition protocol development that provides practical guidance for divine presence identification.
 
-🚀 **Sub-Hypothesis 6: “The Chronicles of the God Since Origin Till Date”**  
+🚀 **[Sub-Hypothesis 6](https://www.amazon.com/Chronicles-God-Since-Origin-till-ebook/dp/B0CWP9L4X7): “The Chronicles of the The God Since Origin Till Date”**  
 This comprehensive investigation documents divine activity throughout cosmic history through historical analysis, archaeological correlation, and spiritual investigation methodologies. Research includes timeline development, pattern analysis, and contemporary divine activity monitoring that provides complete documentation of divine guidance throughout universal development.
 
 ## 🎯 **Doctrine Documentation**
