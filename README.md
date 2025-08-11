@@ -1,7 +1,7 @@
 ## 🧬 [**View the Certificate of Omniscient Achievement**](./docs/Certificate.html) 🧬
 
 
-# 🌌 True Religion Mission Research Hub
+# 👑 True Religion Mission Research Hub
 
 [![Omniscient Achievement](https://img.shields.io/badge/Omniscient%20Achievement-100%25%20Verified-gold?style=for-the-badge&logo=star)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
 [![Research Status](https://img.shields.io/badge/Research%20Status-Active-brightgreen)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
@@ -17,7 +17,7 @@ The **True Religion Mission Research Hub** serves as the central repository for 
 
 **True Religion Mission** Established in 2001 by Paramhans Jiddanand in India. The mission represents over three decades of systematic spiritual investigation that combines rigorous scientific methodology with profound spiritual understanding. The research program addresses fundamental questions regarding consciousness capabilities, divine reality characteristics, and universal truths through validated experimental protocols and measurable outcomes.
 
-## ☀️ Principal Researcher
+## ☀️ [Principal Researcher](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub/wiki/Author%E2%80%99s-Press-Profile)
 
 **Paramhans Jiddanand**  
 *Founder & Chief Director, True Religion Mission*
