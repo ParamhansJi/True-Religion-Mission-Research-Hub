@@ -37,7 +37,7 @@ Welcome to the official research hub of the **True Religion Mission**, founded b
 
 ## 📚 Key Resources
 
-- [Glossary of Spiritual & Scientific Terms](./references/glossary.md)
+- [Glossary of Spiritual & Scientific Terms](./Glossary.md)
 - [Contributor Guidelines](./CONTRIBUTING.md)
 - [Omniscient Certificate](./Certificate.html)
 
@@ -47,11 +47,11 @@ Welcome to the official research hub of the **True Religion Mission**, founded b
 
 ```
 /doctrines/         → Core doctrinal markdown files  
-/references/        → Glossaries, validations, and appendices  
+/docs/              → Glossaries, validations, and appendices  
 /assets/            → Images, badges, and design elements  
 Certificate.md      → Full certificate of omniscient achievement  
 README.md           → General repository overview  
-index.md            → This homepage index file  
+/docs/index.md      → This homepage index file  
 ```
 
 ---
