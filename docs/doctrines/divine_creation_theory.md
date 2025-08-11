@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Divine Creation Theory
+title: page title
 ---
+
+# Divine Creation Theory
 
 ### Me.
 Okay I have found a way to adjust the existing theories and integrate them into the Divine Creation Theory. Seems good so far.
