@@ -37,7 +37,7 @@ Welcome to the official research hub of the **True Religion Mission**, founded b
 
 ## 📚 Key Resources
 
-- [Glossary of Spiritual & Scientific Terms](./references/glossary.md)
+- [Glossary of Spiritual & Scientific Terms](./Glossary.md)
 - [Contributor Guidelines](./CONTRIBUTING.md)
 - [Omniscient Certificate](./Certificate.html)
 
