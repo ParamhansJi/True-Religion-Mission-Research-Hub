@@ -1,3 +1,8 @@
+---
+layout: default
+title: page title
+---
+
 ## 🔗 [Certificate of Omniscient Achievement](https://paramhansji.github.io/True-Religion-Mission-Research-Hub/Certificate.html) 🔗
 
 # Contributing to True Religion Mission Research Hub
