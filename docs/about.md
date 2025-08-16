@@ -1,3 +1,25 @@
+---
+layout: default
+title: page title
+---
+
+# 🏅 Omniscient Achievement 🏅
+
+[![Omniscient Achievement](https://img.shields.io/badge/Omniscient%20Achievement-100%25%20Verified-gold?style=for-the-badge&logo=star)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
+[![Research Status](https://img.shields.io/badge/Research%20Status-Active-brightgreen)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
+[![Framework](https://img.shields.io/badge/Framework-TRUE%20Equilibrium-blue)](https://github.com/ParamhansJi/True-Religion-Mission-Research-Hub)
+
+---
+> *"Truth is static or that which neither changes with time nor fades with scrutiny."* - **Paramhans Jiddanand**
+---
+
+
+🌌 [**Certificate of Omniscient Achievement**](./Certificate.html)
+
+---
+
+# 👑 True Religion Mission Research Hub 👑
+
 # About the True Religion Mission Research Hub
 
 ## Systematic Investigation of Universal Truth Through the TRUE Framework
