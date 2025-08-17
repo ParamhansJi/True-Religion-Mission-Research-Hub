@@ -1,7 +1,3 @@
----
-layout: default
-title: current page title
----
 # Theoretical Contributions made by the TRUE Framework
 
 **Master Hypothesis:** “TRUE Framework Hypothesis”  
