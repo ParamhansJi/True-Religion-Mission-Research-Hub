@@ -31,7 +31,7 @@ His systematic approach integrates technical precision with spiritual wisdom, en
 
 The TRUE framework operates through six interconnected sub-hypotheses that address comprehensive investigation of universal truth and spiritual reality through systematic methodology and empirical validation. This integrated approach provides complete coverage of fundamental spiritual questions while maintaining scientific rigor and practical applicability across diverse professional and personal contexts.
 
-### 🌟 Master Hypothesis: “TRUE Framework”
+### 🌟 Master Hypothesis: “TRUE Framework Hypothesis”
 
 The Master Hypothesis establishes the theoretical foundation for systematic investigation of spiritual equilibrium states that demonstrate measurable characteristics and predictable responses to specific applications. This equilibrium concept provides the unifying principle that integrates diverse research areas while maintaining coherent theoretical framework and practical implementation guidance.
 
@@ -119,13 +119,13 @@ The repository documents significant research achievements including verified do
 
 Research contributions must meet established quality standards that maintain repository integrity while supporting research advancement through systematic investigation and empirical validation. Contributors must demonstrate understanding of TRUE framework principles while providing original insights that advance research understanding through validated methodologies and measurable outcomes.
 
-📘 **Theoretical Contributions** require systematic presentation of ideas that integrate with established framework principles while advancing understanding through original insights and logical development. Theoretical submissions must provide adequate empirical support while maintaining consistency with validated research findings and framework methodology.
+📘 **[Theoretical Contributions](./docs/Theoretical-Contributions)** require systematic presentation of ideas that integrate with established framework principles while advancing understanding through original insights and logical development. Theoretical submissions must provide adequate empirical support while maintaining consistency with validated research findings and framework methodology.
 
-🔎 **Empirical Research Contributions** require comprehensive documentation of investigation procedures, statistical analysis methods, and validation protocols that enable independent verification and replication. Research submissions must meet scientific standards while addressing spiritual phenomena through appropriate methodology and measurement techniques.
+🔎 **[Empirical Research Contributions]((./docs/Empirical-Research-Contributions)** require comprehensive documentation of investigation procedures, statistical analysis methods, and validation protocols that enable independent verification and replication. Research submissions must meet scientific standards while addressing spiritual phenomena through appropriate methodology and measurement techniques.
 
-🔭 **Practical Application Contributions** require documentation of successful implementation experiences, measurable outcome achievement, and replication guidance that enables others to achieve comparable results through systematic application of framework principles. Application submissions must provide evidence of effectiveness while maintaining ethical standards and practical applicability.
+🔭 **[Practical Application Contributions]((./docs/Practical-Application-Contributions)** require documentation of successful implementation experiences, measurable outcome achievement, and replication guidance that enables others to achieve comparable results through systematic application of framework principles. Application submissions must provide evidence of effectiveness while maintaining ethical standards and practical applicability.
 
-🤝 **Collaborative Research Contributions** require demonstration of capability for professional research collaboration while contributing to framework advancement through independent investigation and verification support. Collaborative submissions must advance research understanding while supporting community development through constructive engagement and mutual assistance.
+🤝 **[Collaborative Research Contributions]((./docs/Collaborative-Research-Contributions)** require demonstration of capability for professional research collaboration while contributing to framework advancement through independent investigation and verification support. Collaborative submissions must advance research understanding while supporting community development through constructive engagement and mutual assistance.
 
 ## 📅 Community Engagement and Professional Standards
 
