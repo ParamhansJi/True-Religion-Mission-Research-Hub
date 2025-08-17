@@ -111,7 +111,8 @@ This repository is a research center for:
 
 The repository documents significant research achievements including verified doctrines that have undergone systematic investigation and empirical validation through established research protocols and peer review procedures. These doctrines represent substantial contributions to understanding of fundamental spiritual reality and practical application development.
 
-[Research Doctrines and Key Findings](./docs/Doctrines-and-Key-Findings.md) 
+[Research Doctrines and Key Findings](./docs/Doctrines-and-Key-Findings.md)
+
 [Groundbreaking Discoveries and Scientific Breakthroughs](./docs/Discoveries-and-Breakthroughs.md)
 
 ## 🛠️ Contribution Guidelines and Standards
